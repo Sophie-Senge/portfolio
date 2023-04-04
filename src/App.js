@@ -11,7 +11,7 @@ import Footer from './components/Footer.jsx';
 
 function App() {
   return (
-    <Router basename='portfolio-react'>
+    <Router >
 
 
       <NavBar />
