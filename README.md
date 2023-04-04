@@ -17,7 +17,7 @@ I tried to use best practices for file organization and using components in Reac
 
 ### Links
 
-- Live Site URL: (https://sophie-senge.github.io/react-tailwind-profile/)
+
 
 
 
