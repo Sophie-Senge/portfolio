@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { NavLink } from 'react-router-dom';
 import { FaBars, FaTimes } from 'react-icons/fa';
 import navLinks from './linksdata';
-// import {Link} from 'react-scroll';
+
 import { HashLink } from 'react-router-hash-link';
 
 

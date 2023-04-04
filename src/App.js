@@ -11,7 +11,7 @@ import Footer from './components/Footer.jsx';
 
 function App() {
   return (
-    <Router basename='react-tailwind-profile'>
+    <Router basename='portfolio-react'>
 
 
       <NavBar />
