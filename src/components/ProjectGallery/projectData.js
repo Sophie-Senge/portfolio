@@ -15,7 +15,7 @@ const projects = [
   {
     "id": 2,
     "name": ".Better Nutrient",
-    "image": require("../../images/BN-screenshot.png"),
+    "image": require("../../images/BN-screenshot.webp"),
     "description": "A wesbite to get all the nutritional values of any searched food items as well as the top eight recipes with a searched item from around the web including links to the full recipes.",
     "deployedLink": "https://sophie-senge.github.io/Better-Nutrient/",
     "githubLink": "https://github.com/Sophie-Senge/Better-Nutrient",
@@ -27,7 +27,7 @@ const projects = [
   {
     "id": 3,
     "name": ".Weather App",
-    "image": require("../../images/weatherAppPhoto.png"),
+    "image": require("../../images/weatherAppPhoto.webp"),
     "description": "A weather dashboard that will display current and five day forcast for any searched city in the world.",
     "deployedLink": "https://sophie-senge.github.io/weather_app/",
     "githubLink": "https://github.com/Sophie-Senge/weather_app",

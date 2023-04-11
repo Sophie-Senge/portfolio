@@ -1,5 +1,5 @@
 import React, {useEffect} from 'react';
-import portImage from '../../images/profilePhoto.jpg';
+import portImage from '../../images/profilePhoto.webp';
 import Aos from "aos";
 import "aos/dist/aos.css"; 
 
