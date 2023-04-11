@@ -19,7 +19,7 @@ const AboutData = () => {
        himalayan villages to dense bustling cites like London, New York and Beijing. 
        My diverse background has strengthened my creative and innovative problem-solving 
        abilites and has blossomed into a passion for developing clean, user-friendly, 
-       functional code with a focus on UI and UX. In the physical, tangible world 
+       functional code with a focus on UI and UX. In my free time
        I enjoy hiking the coasts of the UK, surfing the Atlantic and eating spicy ramen!
       </p>
 </div>

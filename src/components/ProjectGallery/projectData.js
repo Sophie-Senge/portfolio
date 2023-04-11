@@ -23,6 +23,7 @@ const projects = [
     "className": "h-22 w-22 rounded-tr-extraLarge rounded-bl-extraLarge cursor-pointer p-4 transition duration-500 hover:scale-110 shadow-lg filter grayscale hover:grayscale-0 border-0 hover:border-indigo-500"
 
   },
+  
   {
     "id": 3,
     "name": ".Weather App",
