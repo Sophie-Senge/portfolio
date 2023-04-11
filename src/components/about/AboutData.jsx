@@ -12,7 +12,7 @@ const AboutData = () => {
   return (
     <div>
          <div data-aos="fade-up" className="md:flex flex-row md:text-left text-center">     
-          <img className='h-60 md:w-80 rounded-full p-2 mx-auto' src={portImage} alt="profile"/>
+          <img className='h-60 md:w-80 rounded-full p-4 mt-8 mx-auto' src={portImage} alt="profile"/>
           <p className=" text-lg text-zinc-400 tracking-wide md:p-4"> 
       I'm a front end web developer and life-long learner with a background in philosophy,
        film, photography and art. I've traveled and lived all over the world from rural 

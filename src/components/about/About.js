@@ -19,15 +19,15 @@ function About() {
       
       <hr data-aos="fade-up" className="w-80 h-px my-8 mb-28 bg-gray-200 border-0 dark:bg-yellow-600"></hr>
 
-      <div data-aos="fade-up" className="lg:m-10 md:bg-zinc-400 md:outline outline-none md:outline-offset-8 text-zinc-400">
+      <div data-aos="fade-up" className="lg:m-10 md:border md:outline outline-none md:outline-offset-8 text-zinc-400">
 
   
-      <div className="lg:p-6 lg:m-12 bg-neutral-900 md:outline outline-2 outline-offset-[18px] text-yellow-600 rounded-tl-extraLarge rounded-br-extraLarge">
+      <div className="lg:p-6 lg:m-12 bg-neutral-900 md:border md:outline outline-2 outline-offset-[18px] text-yellow-600 rounded-tl-extraLarge rounded-br-extraLarge">
  
 
       
       <AboutData />
-     
+
       </div>
       </div>
      
