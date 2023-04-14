@@ -1,4 +1,5 @@
 import { SiHtml5, SiAdobepremierepro, SiBootstrap, SiCss3, SiJavascript, SiReact, SiGithub, SiJquery, SiTailwindcss } from "react-icons/si";
+import {IoLogoNodejs} from "react-icons/io5";
 
 const skillsList = [
 
@@ -44,6 +45,11 @@ const skillsList = [
   },
   {
     "id": 9,
+    "skill": "NodeJs",
+    "icon": <IoLogoNodejs size={30} />,
+  },
+  {
+    "id": 10,
     "skill": "Adobe Premier Pro",
     "icon": <SiAdobepremierepro size={30} />,
   },
