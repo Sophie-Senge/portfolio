@@ -16,7 +16,7 @@ function Skills() {
       <ul className="flex flex-wrap ">
         {skillsList.map(({id, skill, icon }) => {
           return(
-            <li data-aos="flip-up" key={id} className="p-6 text-zinc-500 mt-8 hover:scale-125 duration-200">
+            <li data-aos="flip-up" key={id} className="p-6 text-zinc-500 mt-8 hover:scale-125 duration-100">
               {icon}
               <p className="pt-2">{skill}</p>
             </li>
