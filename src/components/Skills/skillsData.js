@@ -49,7 +49,7 @@ const skillsList = [
     "icon": <SiTailwindcss size={30} />,
   },
   {
-    "id": 10,
+    "id": 14,
     "skill": "NodeJs",
     "icon": <IoLogoNodejs size={30} />,
   },
@@ -69,10 +69,15 @@ const skillsList = [
     "icon": <SiFigma size={30} />,
   },
   {
-    "id": 11,
+    "id": 13,
     "skill": "Adobe Premier Pro",
     "icon": <SiAdobepremierepro size={30} />,
   },
+  //  {
+  //   "id": 14,
+  //   "skill": "D3.js",
+  //   "icon": <SiD3 size={30} />,
+  // }
 
 ];
 

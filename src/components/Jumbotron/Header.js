@@ -39,7 +39,7 @@ function Header() {
      
         <h1 className="text-6xl text-amber-400 font-bold drop-shadow-2xl tracking-wider p-4">Sophie Perks.</h1>
         <h2 className="pb-4 px-4 font-bold text-amber-200 text-4xl tracking-wider drop-shadow-2xl">
-          I'm a Front End Web Developer.
+          I'm a Full Stack Developer.
         </h2>
         <Link to="projects" spy={true} smooth={true} offset={-10} duration={500}> <Button props={buttonStuff} /></Link>
 

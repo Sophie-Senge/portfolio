@@ -14,13 +14,13 @@ const AboutData = () => {
          <div data-aos="fade-up" className="md:flex flex-row md:text-left text-center">     
           <img className='h-60 md:w-80 rounded-full p-4 mt-8 mx-auto' src={portImage} alt="profile"/>
           <p className=" text-lg text-zinc-400 tracking-wide md:p-4"> 
-      I'm a front end web developer and life-long learner with a background in philosophy,
+      I'm a developer and life-long learner with a background in philosophy,
        film, photography and art. I've traveled and lived all over the world from rural 
        himalayan villages to dense bustling cites like London, New York and Beijing. 
        My diverse background has strengthened my creative and innovative problem-solving 
        abilites and has blossomed into a passion for developing clean, user-friendly, 
-       functional code with a focus on UI and UX. In my free time
-       I enjoy hiking the coasts of the UK, surfing the Atlantic and eating spicy ramen!
+       functional code. In my free time
+       I enjoy hiking the coasts of the UK, skating London's many skate parks and surfing the Atlantic.
       </p>
 </div>
 <div>

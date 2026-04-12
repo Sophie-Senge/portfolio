@@ -26,7 +26,7 @@ function NavBar() {
       <ul className='hidden md:flex'>
         {navLinks.map(({ id, name, section }) => (
          
-          <HashLink to={section} spy={true} smooth={true} offset={-10} duration={500} key={id} className='px-4 cursor-pointer text-md font-accent capitalize text-indigo-700 hover:text-indigo-500 hover:scale-110 duration-200'>
+          <HashLink to={section} smooth={true} offset={-10} duration={500} key={id} className='px-4 cursor-pointer text-md font-accent capitalize text-indigo-700 hover:text-indigo-500 hover:scale-110 duration-200'>
             {name}
           </HashLink>
           
@@ -46,8 +46,7 @@ function NavBar() {
         <ul className="flex flex-col justify-center items-center absolute top-0 left-0 w-full h-screen bg-gradient-to-b from-black to-neutral-900 font-accent text-indigo-500">
           {navLinks.map(({ id, name, section }) => (
             <li key={id}
-              className="px-4 cursor-pointer capitalize py-6 text-4xl"> <HashLink onClick={handleClick} to={section} spy={true} smooth={true} offset={-10} duration={500}> {name}
-              </HashLink>
+              className="px-4 cursor-pointer capitalize py-6 text-4xl"> <HashLink onClick={handleClick} to={section} smooth={true} offset={-10} duration={500}>{name}</HashLink>
              
             </li> 
           ))}

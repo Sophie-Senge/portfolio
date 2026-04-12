@@ -1,9 +1,21 @@
 const projects = [
+  
+    {
+    "id": 2,
+    "name": ".Artist Website II",
+    "image": require("../../images/Emily_website.png"),
+    "description": "A website designed and built for a client.",
+    "deployedLink": "https://www.yoshikocrow.com/",
+    "githubLink": "https://github.com/Sophie-Senge/avery_portfolio",
+    "tools": [">React", ">Vite", ">Tailwind"],
+    "className":"h-22 w-22 rounded-tl-extraLarge rounded-br-extraLarge cursor-pointer p-4 transition duration-500 hover:scale-110 shadow-lg filter grayscale hover:grayscale-0 border-0 hover:border-indigo-500"
+
+  },
   {
     "id": 1,
     "name": ".Artist Website",
     "image": require("../../images/saskiaswebsite.webp"),
-    "description": "A webiste built for a client.",
+    "description": "A website built for a client based on their design.",
     "deployedLink": "https://www.saskiaspender.com/",
     "githubLink": "https://github.com/Sophie-Senge/Saskia-Webpage",
     "tools": [">React", ">Tailwind"],
@@ -12,7 +24,7 @@ const projects = [
   },
  
   {
-    "id": 2,
+    "id": 3,
     "name": ".90s Quiz",
     "image": require("../../images/quizPhoto.png"),
     "description": "A fun 90s themed timed quiz with multiple-choice questions.",
@@ -23,7 +35,7 @@ const projects = [
 
   },
   {
-    "id": 3,
+    "id": 4,
     "name": ".Better Nutrient",
     "image": require("../../images/BN-screenshot.webp"),
     "description": "A collaborative effort built to fetch the nutritional values of any searched food item as well as the top eight recipes from around the web including links to the full recipes.",
@@ -35,7 +47,7 @@ const projects = [
   },
   
   {
-    "id": 4,
+    "id": 5,
     "name": ".Weather App",
     "image": require("../../images/weatherAppPhoto.webp"),
     "description": "Using OpenWeather API to fetch the data, this weather dashboard will display a current and five day forcast for any searched location in the world.",
@@ -45,7 +57,7 @@ const projects = [
     "className": "h-22 w-22 rounded-tl-extraLarge rounded-br-extraLarge cursor-pointer p-4 transition duration-500 hover:scale-110 shadow-lg filter grayscale hover:grayscale-0 border-0 hover:border-indigo-500"
   },
   {
-    "id": 5,
+    "id": 6,
     "name": ".My Portfolio",
     "image": require("../../images/Screenshot 2023-03-23 at 9.26.04 PM.png"),
     "description": "My Portfolio built with React, multiple libraries, and Tailwind. Deployed on Netlify.",
