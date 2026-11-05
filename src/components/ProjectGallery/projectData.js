@@ -1,4 +1,15 @@
 const projects = [
+  {
+    "id": 7,
+    "name": ".Film Portfolio",
+    "image": require("../../images/perfectgod.png"),
+    "description": "A website I designed and built for a film project. Not live yet.",
+    "deployedLink": "https://perfectgod.netlify.app/",
+    "githubLink": "https://github.com/Sophie-Senge/PerfectGod",
+    "tools": [">JavaScript", ">Tailwind", ">PostCSS"],
+    "className": "h-22 w-22 rounded-tr-extraLarge rounded-bl-extraLarge cursor-pointer p-4 transition duration-500 hover:scale-110 shadow-lg filter grayscale hover:grayscale-0 border-0 hover:border-indigo-500"
+
+  },
   
     {
     "id": 2,
